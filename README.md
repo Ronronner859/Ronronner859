@@ -40,11 +40,11 @@
 </div>
 -->
 -->
-#### Augenstern-creator
+
 <h1 align="center">
-  <a href="https://www.qindalin.com/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi , I'm Augenestern;零壹年秋,生于北方!&center=true&size=27">
-  </a>
+	<a href="https://sunguoqi.com/">
+		<img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);你有一直热爱的并且坚持的!&center=true&size=27">
+	</a>
 </h1>
 <h3 align="center">A struggling developer from China</h3>
 <br>
@@ -55,7 +55,7 @@
   <!-- Gitee徽章 -->
   <a href="https://gitee.com/Ronronner859" target="_blank"><img src="https://img.shields.io/badge/Gitee-Augenestern--creator-orange"></a>
   <!-- CSDN徽章 -->
- <a href="https://blog.csdn.net/Augenstern_QXL" target="_blank"><img src="https://img.shields.io/badge/CSDN-%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2-yellow"></a>
+ <a href="https://blog.csdn.net/qq_51714990?type=blog" target="_blank"><img src="https://img.shields.io/badge/CSDN-%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2-yellow"></a>
   <!-- 个人网站徽章 -->
   <a href="https://www.qindalin.com" target="_blank">
     <img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue" alt="个人网站">
@@ -80,18 +80,14 @@
 <!-- 统计卡片start -->
 <div align="center">
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Ronronner859&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sun0225SUN&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronronner859&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div>
 <!-- 统计卡片end -->
 <br>
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://activity-graph.herokuapp.com/graph?username=Ronronner859&theme=dracula&bg_color=FF000000&hide_border=true" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=Ronronner859&theme=xcode" />
+</div>
 
 
 
