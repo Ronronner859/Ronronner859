@@ -46,7 +46,7 @@
 		<img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);你有一直热爱的并且坚持的!&center=true&size=27">
 	</a>
 </h1>
-<h3 align="center">A struggling developer from China</h3>
+<h3 align="center">On the way to learning programming I'm chneyi</h3>
 <br>
 <!-- 徽章start -->
 <p align="center">
