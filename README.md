@@ -82,6 +82,24 @@
   <a href="https://shields.io/" target="_blank">
     <img src="https://img.shields.io/badge/io-%E9%93%BE%E6%8E%A5%E7%94%9F%E6%88%90%E5%99%A8-yellowgreen" alt="链接生成器">
   </a>
+ 
+   <a href="https://www.zhihu.com/people/long-ran-59-11" target="_blank">
+    <img src="https://img.shields.io/badge/%E4%B9%8B%E4%BA%86%E4%B8%AA%E4%B9%8E-%E7%9F%A5%E4%B9%8E-blue" alt="知乎">
+  </a>
+  <a href="https://wallhaven.cc/" target="_blank">
+    <img src="https://img.shields.io/badge/%E5%A3%81%E7%BA%B8%E6%94%B6%E8%97%8F-%E5%A3%81%E7%BA%B8-purple" alt="壁纸">
+  </a>
+  <a href="https://dartools.com/#term-223" target="_blank">
+    <img src="https://img.shields.io/badge/%E5%B7%A5%E5%85%B7%E8%BE%BE%E4%BA%BA-Tool's%20got%20talent-white" alt="Tool">
+  </a>
+  <br>
+   <a href=" https://chrome.zzzmh.cn/#/index" target="_blank">
+    <img src="https://img.shields.io/badge/%E6%B2%B9%E7%8C%B4yyds-Grease%20monkey-black" alt="monkey">
+  </a>
+ 
+  <a href="https://visualgo.net/zh" target="_blank">
+    <img src="https://img.shields.io/badge/%E5%8A%A8%E6%80%81%E7%AE%97%E6%B3%95-algorithm-green" alt="algorithm">
+  </a>
   <!-- 访客徽章 -->
 <!--  <img src="https://visitor-badge.glitch.me/badge?page_id=Ronronner859&left_color=green&right_color=red"> -->
 </p>
