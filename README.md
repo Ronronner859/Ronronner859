@@ -51,9 +51,9 @@
 <!-- 徽章start -->
 <p align="center">
   <!-- Github徽章 -->
-  <a href="https://github.com/Ronronner859" target="_blank"><img src="https://img.shields.io/badge/GitHub-Augenestern--creator-brightgreen"></a>
+  <a href="https://github.com/Ronronner859" target="_blank"><img src="https://img.shields.io/badge/GitHub-Ronronner859-brightgreen"></a>
   <!-- Gitee徽章 -->
-  <a href="https://gitee.com/Kobe_mrcy" target="_blank"><img src="https://img.shields.io/badge/Gitee-Augenestern--creator-orange"></a>
+  <a href="https://gitee.com/Kobe_mrcy" target="_blank"><img src="https://img.shields.io/badge/Gitee-Ronronner859-orange"></a>
   <!-- CSDN徽章 -->
  <a href="https://blog.csdn.net/qq_51714990?type=blog" target="_blank"><img src="https://img.shields.io/badge/CSDN-%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2-yellow"></a>
  
