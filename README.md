@@ -1,4 +1,4 @@
-![:Augenestern-creator](https://count.getloli.com/get/@:Ronronner859?theme=gelbooru-h)
+![:Ronronner859](https://count.getloli.com/get/@:Ronronner859?theme=gelbooru.com)
 
 <!--
 <h1 align="center">
@@ -56,10 +56,19 @@
   <a href="https://gitee.com/Kobe_mrcy" target="_blank"><img src="https://img.shields.io/badge/Gitee-Augenestern--creator-orange"></a>
   <!-- CSDN徽章 -->
  <a href="https://blog.csdn.net/qq_51714990?type=blog" target="_blank"><img src="https://img.shields.io/badge/CSDN-%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2-yellow"></a>
+ 
   <!-- 个人网站徽章 -->
   <a href="http://lanrency.3vkj.net" target="_blank">
     <img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue" alt="个人网站">
   </a>
+   <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/%E7%AC%94%E8%AE%B0%E5%B7%A5%E5%85%B7-Typora-lightgrey" alt="笔记工具">
+  </a>
+  <br>
+  <a href="https://www.luogu.com.cn/" target="_blank">
+    <img src="https://img.shields.io/badge/%E5%88%B7%E9%A2%98%E5%B7%A5%E5%85%B7-%E6%B4%9B%E8%B0%B7-brightgreen" alt="笔记工具">
+  </a>
+  
   <!-- 访客徽章 -->
 <!--  <img src="https://visitor-badge.glitch.me/badge?page_id=Ronronner859&left_color=green&right_color=red"> -->
 </p>
