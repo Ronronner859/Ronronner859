@@ -46,3 +46,8 @@ Here are some ideas to get you started:
 	<img src="https://stats.justsong.cn/api/csdn?id=Ronronner859">
 </div>
 -->
+<h1 align="center">
+	<a href="https://sunguoqi.com/">
+		<img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);有一直坚持的，但是有缺乏热爱的!&center=true&size=27">
+	</a>
+</h1>
