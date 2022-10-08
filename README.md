@@ -16,6 +16,13 @@ Here are some ideas to get you started:
 
 -->
 
+<h1 align="center">
+	<a href="https://sunguoqi.com/">
+		<img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);你有一直热爱的并且坚持的，祝你快乐!&center=true&size=27">
+	</a>
+</h1>
+
+
 <div align="center">
 	<img src="https://metrics.lecoq.io/Ronronner859?template=classic&config.timezone=Asia%2FShanghai">
 </div>
