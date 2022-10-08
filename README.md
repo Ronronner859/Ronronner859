@@ -61,14 +61,27 @@
   <a href="http://lanrency.3vkj.net" target="_blank">
     <img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue" alt="个人网站">
   </a>
+  <!-- 笔记工具徽章 -->
    <a href="" target="_blank">
     <img src="https://img.shields.io/badge/%E7%AC%94%E8%AE%B0%E5%B7%A5%E5%85%B7-Typora-lightgrey" alt="笔记工具">
   </a>
   <br>
+  <!--洛谷徽章 -->
   <a href="https://www.luogu.com.cn/" target="_blank">
-    <img src="https://img.shields.io/badge/%E5%88%B7%E9%A2%98%E5%B7%A5%E5%85%B7-%E6%B4%9B%E8%B0%B7-brightgreen" alt="笔记工具">
+    <img src="https://img.shields.io/badge/%E5%88%B7%E9%A2%98%E5%B7%A5%E5%85%B7-%E6%B4%9B%E8%B0%B7-brightgreen" alt="洛谷">
+  </a>
+  <!-- leetcode徽章 -->
+  <a href="https://leetcode.cn/leetbook/" target="_blank">
+    <img src="https://img.shields.io/badge/leetcode-%E5%8A%9B%E7%A5%9E-red" alt="leetcode">
+  </a>
+    <!-- 博客园徽章 -->
+  <a href="https://www.cnblogs.com/hhhcy/" target="_blank">
+    <img src="https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2%E5%9B%AD-blog-orange" alt="博客园">
   </a>
   
+  <a href="https://shields.io/" target="_blank">
+    <img src="https://img.shields.io/badge/io-%E9%93%BE%E6%8E%A5%E7%94%9F%E6%88%90%E5%99%A8-yellowgreen" alt="链接生成器">
+  </a>
   <!-- 访客徽章 -->
 <!--  <img src="https://visitor-badge.glitch.me/badge?page_id=Ronronner859&left_color=green&right_color=red"> -->
 </p>
