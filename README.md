@@ -53,11 +53,11 @@
   <!-- Github徽章 -->
   <a href="https://github.com/Ronronner859" target="_blank"><img src="https://img.shields.io/badge/GitHub-Augenestern--creator-brightgreen"></a>
   <!-- Gitee徽章 -->
-  <a href="https://gitee.com/Ronronner859" target="_blank"><img src="https://img.shields.io/badge/Gitee-Augenestern--creator-orange"></a>
+  <a href="https://gitee.com/Kobe_mrcy" target="_blank"><img src="https://img.shields.io/badge/Gitee-Augenestern--creator-orange"></a>
   <!-- CSDN徽章 -->
  <a href="https://blog.csdn.net/qq_51714990?type=blog" target="_blank"><img src="https://img.shields.io/badge/CSDN-%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2-yellow"></a>
   <!-- 个人网站徽章 -->
-  <a href="https://www.qindalin.com" target="_blank">
+  <a href="http://lanrency.3vkj.net" target="_blank">
     <img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue" alt="个人网站">
   </a>
   <!-- 访客徽章 -->
