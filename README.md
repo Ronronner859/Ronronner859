@@ -15,6 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
+<h1 align="center">
+	<a href="https://sunguoqi.com/">
+		<img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22); 你有一直坚持的，但是有缺乏热爱的!&center=true&size=30&color="skyblue">
+	</a>
+</h1>
 <div align="center">
 	<img src="https://metrics.lecoq.io/Ronronner859?template=classic&config.timezone=Asia%2FShanghai">
 </div>
@@ -46,8 +51,4 @@ Here are some ideas to get you started:
 	<img src="https://stats.justsong.cn/api/csdn?id=Ronronner859">
 </div>
 -->
-<h1 align="center">
-	<a href="https://sunguoqi.com/">
-		<img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);有一直坚持的，但是有缺乏热爱的!&center=true&size=27">
-	</a>
-</h1>
+
