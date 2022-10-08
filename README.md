@@ -43,10 +43,10 @@
 
 <h1 align="center">
 	<a href="https://sunguoqi.com/">
-		<img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);你有一直热爱的并且坚持的!&center=true&size=27">
+		<img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);感谢你的点赞，祝屏幕前的朋友萌生活愉快!&center=true&size=20">
 	</a>
 </h1>
-<h3 align="center"> 我渐渐把“这种事为什么要发生在我身上”的想法，替换成了“这种事想教会我什么”，然后发现身边的一切都改变了。 I'm chneyi</h3>
+<h3 align="center"> 有些东西根本不配占据你的情绪，人生就是场体验，请你尽兴点。 I'm chneyi</h3>
 <br>
 <!-- 徽章start -->
 <p align="center">
