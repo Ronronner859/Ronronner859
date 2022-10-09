@@ -9,7 +9,6 @@
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif">
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
-
 - 🔭 I’m **Chneyi**
 - 🌱 I'm studying at Northeastern University
 - 👯 Try hard to learn technology, and try to be a senior engineer
@@ -76,6 +75,24 @@
 </p>
 <!-- 徽章end -->
 <br>
+💪 正在学习: 
+
+&emsp;&emsp;
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/-java-yellow?style=flat-square&logo=java)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript)
+
+🧠 计划学习:
+
+&emsp;&emsp;
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![Nodejs](https://img.shields.io/badge/-Nodejs-c0ebd?style=flat-square&logo=Node.js)
+![Docker](https://img.shields.io/badge/-Docker-FCC624?style=flat-square&logo=docker)
+
+
 <!-- Github奖杯🏆start -->
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Ronronner859&theme=onedark&row=1&column=6&no-frame=true&no-bg=true"> </div>
 <!-- Github奖杯🏆end -->
