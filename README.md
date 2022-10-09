@@ -4,7 +4,7 @@
 		<img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);感谢你的点赞，祝屏幕前的朋友萌生活愉快!&center=true&size=20">
 	</a>
 </h1>
-<h3 align="center"> 有些东西根本不配占据你的情绪，人生就是场体验，请你尽兴点。 </h3>
+<h3 align="center"> 有些东西根本不配占据你的情绪，人生就是场体验，尽兴点最好。 </h3>
 <br>
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif">
 
