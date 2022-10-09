@@ -75,15 +75,15 @@
 </p>
 <!-- 徽章end -->
 <br>
+
 💪 正在学习: 
 
 &emsp;&emsp;
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/-java-yellow?style=flat-square&logo=java)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript)
+![数据结构](https://img.shields.io/badge/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84-%20%20The%20data%20structure-red)
+![软考](https://img.shields.io/badge/%E5%87%86%E5%A4%87%E8%BD%AF%E8%80%83-Soft%20test-green)
 
 🧠 计划学习:
 
@@ -91,8 +91,23 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-c0ebd?style=flat-square&logo=Node.js)
 ![Docker](https://img.shields.io/badge/-Docker-FCC624?style=flat-square&logo=docker)
+![设计模式](https://img.shields.io/badge/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F-Design%20patterns-brightgreen)
+
+🧰 常用的工具:
+
+&emsp;&emsp; 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=linux&logoColor=black)
+![Google Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white)
+![Edge](https://img.shields.io/badge/Edge-0078D7?style=flat-square&logo=Microsoft-edge&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)
+![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
 
 
+<!-- just img -->
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311924844.png" /></div>
+
+# 🚀 Actions
 <!-- Github奖杯🏆start -->
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Ronronner859&theme=onedark&row=1&column=6&no-frame=true&no-bg=true"> </div>
 <!-- Github奖杯🏆end -->
