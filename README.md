@@ -123,7 +123,7 @@
   <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300312623.png" />
 </div>
 <br>
-<p align = "center"><img src="https://github.com/ahammadshawki8/ahammadshawki8/blob/master/code.gif"/></p>
+<p align = "center"><img src="https://github.com/Ronronner859/The-university-record/blob/main/code.gif"/></p>
 <div align="center">
 	<img src="https://metrics.lecoq.io/Ronronner859?template=classic&config.timezone=Asia%2FShanghai">
 </div>
