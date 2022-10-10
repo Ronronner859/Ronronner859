@@ -70,6 +70,9 @@
      <a href="https://www.runoob.com/" target="_blank">
     <img src="https://img.shields.io/badge/%E8%8F%9C%E9%B8%9F%E6%95%99%E7%A8%8B-%E7%9F%A5%E8%AF%86%E6%90%9C%E7%B4%A2-green" alt="algorithm">
   </a>
+    <a href="https://hexo.io/zh-cn/" target="_blank">
+    <img src="https://img.shields.io/badge/Hexo-github-lightgrey" alt="hexo">
+  </a>
   <!-- 访客徽章 -->
 <!--  <img src="https://visitor-badge.glitch.me/badge?page_id=Ronronner859&left_color=green&right_color=red"> -->
 </p>
@@ -84,6 +87,7 @@
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white)
 ![数据结构](https://img.shields.io/badge/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84-%20%20The%20data%20structure-red)
 ![软考](https://img.shields.io/badge/%E5%87%86%E5%A4%87%E8%BD%AF%E8%80%83-Soft%20test-green)
+![Hexo](https://img.shields.io/badge/Hexo-github-lightgrey)
 
 🧠 计划学习:
 
