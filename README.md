@@ -20,10 +20,15 @@
   <a href="https://gitee.com/Kobe_mrcy" target="_blank"><img src="https://img.shields.io/badge/Gitee-Ronronner859-orange"></a>
   <!-- CSDN徽章 -->
  <a href="https://blog.csdn.net/qq_51714990?type=blog" target="_blank"><img src="https://img.shields.io/badge/CSDN-%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2-yellow"></a>
- 
+  <!-- 掘金徽章 -->
+ <a href="https://juejin.cn/user/1860806742121645 target="_blank"><img src="https://img.shields.io/badge/%E7%A8%80%E5%9C%9F%E6%8E%98%E9%87%91-%E6%8E%98%E5%93%A5-red"></a>
   <!-- 个人网站徽章 -->
   <a href="http://www.jaychenyi.top/" target="_blank">
     <img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue" alt="个人网站">
+  </a>
+   <!-- 博客园徽章 -->
+  <a href="https://www.cnblogs.com/hhhcy/" target="_blank">
+    <img src="https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2%E5%9B%AD-blog-orange" alt="博客园">
   </a>
 </p>
 <p><img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> Languages & Tools:</P>
@@ -42,10 +47,7 @@
   <a href="https://leetcode.cn/leetbook/" target="_blank">
     <img src="https://img.shields.io/badge/leetcode-%E5%8A%9B%E7%A5%9E-red" alt="leetcode">
   </a>
-    <!-- 博客园徽章 -->
-  <a href="https://www.cnblogs.com/hhhcy/" target="_blank">
-    <img src="https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2%E5%9B%AD-blog-orange" alt="博客园">
-  </a>
+   
  
   <a href="https://shields.io/" target="_blank">
     <img src="https://img.shields.io/badge/io-%E9%93%BE%E6%8E%A5%E7%94%9F%E6%88%90%E5%99%A8-yellowgreen" alt="链接生成器">
