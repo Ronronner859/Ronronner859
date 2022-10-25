@@ -10,7 +10,6 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 - 🔭 I’m **Chneyi**
-- 🌱 I'm studying at Northeastern University
 - 👯 Try hard to learn technology, and try to be a senior engineer
 <p><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> contact me：</P>
 <p align="left">
