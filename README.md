@@ -1,15 +1,5 @@
-![:Ronronner859](https://count.getloli.com/get/@:Ronronner859?theme=gelbooru.com)
-<h1 align="center">
-	<a href="https://sunguoqi.com/">
-		<img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);感谢你的点赞，祝屏幕前的朋友萌生活愉快!&center=true&size=20">
-	</a>
-</h1>
-<h3 align="center"> 有些东西根本不配占据你的情绪，人生就是场体验，尽兴点最好。 </h3>
-<br>
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif">
-
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
-- 🔭 I’m **Chneyi**
+- 🔭 I’m **Beak**
 - 👯 Try hard to learn technology, and try to be a senior engineer
 <p><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> contact me：</P>
 <p align="left">
@@ -79,38 +69,6 @@
 </p>
 <!-- 徽章end -->
 <br>
-
-💪 正在学习: 
-
-&emsp;&emsp;
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/-java-yellow?style=flat-square&logo=java)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white)
-![数据结构](https://img.shields.io/badge/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84-%20%20The%20data%20structure-red)
-![软考](https://img.shields.io/badge/%E5%87%86%E5%A4%87%E8%BD%AF%E8%80%83-Soft%20test-green)
-![Hexo](https://img.shields.io/badge/Hexo-github-lightgrey)
-
-🧠 计划学习:
-
-&emsp;&emsp;
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![Nodejs](https://img.shields.io/badge/-Nodejs-c0ebd?style=flat-square&logo=Node.js)
-![Docker](https://img.shields.io/badge/-Docker-FCC624?style=flat-square&logo=docker)
-![设计模式](https://img.shields.io/badge/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F-Design%20patterns-brightgreen)
-
-🧰 常用的工具:
-
-&emsp;&emsp; 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=linux&logoColor=black)
-![Google Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white)
-![Edge](https://img.shields.io/badge/Edge-0078D7?style=flat-square&logo=Microsoft-edge&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)
-![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
-
-
-<!-- just img -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311924844.png" /></div>
 
 # 🚀 Actions
 <!-- Github奖杯🏆start -->
