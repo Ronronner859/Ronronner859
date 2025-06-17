@@ -12,12 +12,11 @@
 
 ### 🚀 About Me
 
-- 👨‍💻 Full-stack engineer who loves tinkering with systems, performance, and side-projects
-- 🔭 Currently working at **INNORAID**
-- 🧠 Interested in **Golang backend**, **frontend engineering**, and **DevOps automation**
-- 🌱 Exploring **React**, **Kubernetes**, **Serverless**, and **Cloud Native tools**
-- 💬 Ask me about **Vue 3**, **React**, **Go**, **CI/CD**, and **system design**
-- 📫 Reach me via email: `chenyilong916002@gmail.com`
+- 🧠 Full-stack dev | DevOps Enthusiast | CLI Lover
+- 🔭 Working at **RPWORLD**
+- ⚡ Exploring **Golang**, **React**, and **Cloud Native**
+- 🧩 Love clean code, deep configs, and terminal workflows
+- 📬 Reach me at: `chenyilong916002@gmail.com`
 
 ---
 
@@ -33,26 +32,21 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite)
 
-#### ⚙️ Backend & Infrastructure
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go)
+#### ⚙️ Backend & Infra
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
-![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx)
 
-#### 🛠️ Dev Tools
+#### 🧰 Dev Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions)
+![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=neovim)
 ![Vercel](https://img.shields.io/badge/-Vercel-000?style=flat-square&logo=vercel)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 
----
-
-### 🧠 Competitive Programming
-
-I occasionally dive into algorithm problems on Codeforces:
-
-➡️ [My Codeforces profile](https://codeforces.com/profile/ByteGarage)
+#### 🖥️ OS & Environment
+![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat-square&logo=arch-linux)
+![Linux Terminal](https://img.shields.io/badge/-Terminal-000000?style=flat-square&logo=gnome-terminal)
 
 ---
 
@@ -67,6 +61,6 @@ I occasionally dive into algorithm problems on Codeforces:
 
 ### 🧩 Fun Facts
 
-- ☕ Coffee is my debugger.
-- ⚙️ I’m obsessed with simplifying deployments and reducing friction.
-- 🛰️ I treat every architecture decision like a game of chess.
+- ☕ Coffee + Terminal = Productive Day
+- 🛠️ I maintain dotfiles like they're part of my soul
+- 🚀 I believe in minimal, fast, and efficient tooling
