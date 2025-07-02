@@ -13,7 +13,6 @@
 ### 🚀 About Me
 
 - 🧠 Full-stack dev | DevOps Enthusiast | CLI Lover
-- 🔭 Working at **RPWORLD**
 - ⚡ Exploring **Golang**, **React**, and **Cloud Native**
 - 🧩 Love clean code, deep configs, and terminal workflows
 - 📬 Reach me at: `chenyilong916002@gmail.com`
